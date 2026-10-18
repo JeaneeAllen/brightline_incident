@@ -1,0 +1,4 @@
+run,table,row_count,severity_null_rate,severity_cardinality,high_count,high_share,standard_count,standard_share,mean_severity
+baseline,claims_mart,1000,0.0,2,380,0.38,620,0.62,4.9
+incident,claims_mart,620,0.0,1,0,0.0,620,1.0,3.0
+corrected,claims_mart,1000,0.0,2,380,0.38,620,0.62,4.9

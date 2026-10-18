@@ -1,0 +1,4002 @@
+[
+  {
+    "feed": "specialty",
+    "policy_key": "POL0001"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0002"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0003"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0004"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0005"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0006"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0007"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0008"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0009"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0010"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0011"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0012"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0013"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0014"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0015"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0016"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0017"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0018"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0019"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0020"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0021"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0022"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0023"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0024"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0025"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0026"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0027"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0028"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0029"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0030"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0031"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0032"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0033"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0034"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0035"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0036"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0037"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0038"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0039"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0040"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0041"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0042"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0043"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0044"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0045"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0046"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0047"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0048"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0049"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0050"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0051"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0052"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0053"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0054"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0055"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0056"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0057"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0058"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0059"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0060"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0061"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0062"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0063"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0064"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0065"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0066"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0067"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0068"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0069"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0070"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0071"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0072"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0073"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0074"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0075"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0076"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0077"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0078"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0079"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0080"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0081"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0082"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0083"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0084"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0085"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0086"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0087"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0088"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0089"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0090"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0091"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0092"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0093"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0094"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0095"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0096"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0097"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0098"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0099"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0100"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0101"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0102"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0103"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0104"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0105"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0106"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0107"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0108"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0109"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0110"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0111"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0112"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0113"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0114"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0115"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0116"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0117"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0118"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0119"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0120"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0121"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0122"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0123"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0124"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0125"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0126"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0127"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0128"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0129"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0130"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0131"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0132"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0133"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0134"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0135"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0136"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0137"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0138"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0139"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0140"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0141"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0142"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0143"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0144"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0145"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0146"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0147"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0148"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0149"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0150"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0151"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0152"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0153"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0154"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0155"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0156"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0157"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0158"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0159"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0160"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0161"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0162"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0163"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0164"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0165"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0166"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0167"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0168"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0169"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0170"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0171"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0172"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0173"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0174"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0175"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0176"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0177"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0178"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0179"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0180"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0181"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0182"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0183"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0184"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0185"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0186"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0187"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0188"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0189"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0190"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0191"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0192"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0193"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0194"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0195"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0196"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0197"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0198"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0199"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0200"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0201"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0202"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0203"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0204"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0205"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0206"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0207"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0208"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0209"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0210"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0211"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0212"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0213"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0214"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0215"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0216"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0217"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0218"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0219"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0220"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0221"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0222"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0223"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0224"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0225"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0226"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0227"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0228"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0229"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0230"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0231"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0232"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0233"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0234"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0235"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0236"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0237"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0238"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0239"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0240"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0241"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0242"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0243"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0244"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0245"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0246"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0247"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0248"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0249"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0250"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0251"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0252"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0253"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0254"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0255"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0256"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0257"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0258"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0259"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0260"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0261"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0262"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0263"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0264"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0265"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0266"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0267"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0268"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0269"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0270"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0271"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0272"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0273"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0274"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0275"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0276"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0277"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0278"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0279"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0280"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0281"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0282"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0283"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0284"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0285"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0286"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0287"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0288"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0289"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0290"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0291"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0292"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0293"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0294"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0295"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0296"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0297"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0298"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0299"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0300"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0301"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0302"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0303"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0304"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0305"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0306"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0307"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0308"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0309"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0310"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0311"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0312"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0313"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0314"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0315"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0316"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0317"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0318"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0319"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0320"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0321"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0322"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0323"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0324"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0325"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0326"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0327"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0328"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0329"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0330"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0331"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0332"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0333"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0334"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0335"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0336"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0337"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0338"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0339"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0340"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0341"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0342"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0343"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0344"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0345"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0346"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0347"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0348"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0349"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0350"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0351"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0352"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0353"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0354"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0355"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0356"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0357"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0358"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0359"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0360"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0361"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0362"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0363"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0364"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0365"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0366"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0367"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0368"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0369"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0370"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0371"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0372"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0373"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0374"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0375"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0376"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0377"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0378"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0379"
+  },
+  {
+    "feed": "specialty",
+    "policy_key": "POL0380"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0381"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0382"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0383"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0384"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0385"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0386"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0387"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0388"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0389"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0390"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0391"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0392"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0393"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0394"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0395"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0396"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0397"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0398"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0399"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0400"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0401"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0402"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0403"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0404"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0405"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0406"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0407"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0408"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0409"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0410"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0411"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0412"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0413"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0414"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0415"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0416"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0417"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0418"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0419"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0420"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0421"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0422"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0423"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0424"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0425"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0426"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0427"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0428"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0429"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0430"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0431"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0432"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0433"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0434"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0435"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0436"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0437"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0438"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0439"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0440"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0441"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0442"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0443"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0444"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0445"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0446"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0447"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0448"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0449"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0450"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0451"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0452"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0453"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0454"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0455"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0456"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0457"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0458"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0459"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0460"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0461"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0462"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0463"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0464"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0465"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0466"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0467"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0468"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0469"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0470"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0471"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0472"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0473"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0474"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0475"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0476"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0477"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0478"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0479"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0480"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0481"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0482"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0483"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0484"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0485"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0486"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0487"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0488"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0489"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0490"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0491"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0492"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0493"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0494"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0495"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0496"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0497"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0498"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0499"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0500"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0501"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0502"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0503"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0504"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0505"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0506"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0507"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0508"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0509"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0510"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0511"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0512"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0513"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0514"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0515"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0516"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0517"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0518"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0519"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0520"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0521"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0522"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0523"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0524"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0525"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0526"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0527"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0528"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0529"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0530"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0531"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0532"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0533"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0534"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0535"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0536"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0537"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0538"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0539"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0540"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0541"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0542"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0543"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0544"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0545"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0546"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0547"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0548"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0549"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0550"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0551"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0552"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0553"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0554"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0555"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0556"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0557"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0558"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0559"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0560"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0561"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0562"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0563"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0564"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0565"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0566"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0567"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0568"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0569"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0570"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0571"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0572"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0573"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0574"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0575"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0576"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0577"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0578"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0579"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0580"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0581"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0582"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0583"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0584"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0585"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0586"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0587"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0588"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0589"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0590"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0591"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0592"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0593"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0594"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0595"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0596"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0597"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0598"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0599"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0600"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0601"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0602"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0603"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0604"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0605"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0606"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0607"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0608"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0609"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0610"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0611"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0612"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0613"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0614"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0615"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0616"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0617"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0618"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0619"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0620"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0621"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0622"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0623"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0624"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0625"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0626"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0627"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0628"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0629"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0630"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0631"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0632"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0633"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0634"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0635"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0636"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0637"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0638"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0639"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0640"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0641"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0642"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0643"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0644"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0645"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0646"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0647"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0648"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0649"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0650"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0651"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0652"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0653"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0654"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0655"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0656"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0657"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0658"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0659"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0660"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0661"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0662"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0663"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0664"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0665"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0666"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0667"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0668"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0669"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0670"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0671"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0672"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0673"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0674"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0675"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0676"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0677"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0678"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0679"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0680"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0681"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0682"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0683"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0684"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0685"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0686"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0687"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0688"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0689"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0690"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0691"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0692"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0693"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0694"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0695"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0696"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0697"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0698"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0699"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0700"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0701"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0702"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0703"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0704"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0705"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0706"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0707"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0708"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0709"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0710"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0711"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0712"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0713"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0714"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0715"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0716"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0717"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0718"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0719"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0720"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0721"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0722"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0723"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0724"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0725"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0726"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0727"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0728"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0729"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0730"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0731"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0732"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0733"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0734"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0735"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0736"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0737"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0738"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0739"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0740"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0741"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0742"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0743"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0744"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0745"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0746"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0747"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0748"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0749"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0750"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0751"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0752"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0753"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0754"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0755"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0756"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0757"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0758"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0759"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0760"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0761"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0762"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0763"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0764"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0765"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0766"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0767"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0768"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0769"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0770"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0771"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0772"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0773"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0774"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0775"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0776"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0777"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0778"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0779"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0780"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0781"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0782"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0783"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0784"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0785"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0786"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0787"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0788"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0789"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0790"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0791"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0792"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0793"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0794"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0795"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0796"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0797"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0798"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0799"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0800"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0801"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0802"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0803"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0804"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0805"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0806"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0807"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0808"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0809"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0810"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0811"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0812"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0813"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0814"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0815"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0816"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0817"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0818"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0819"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0820"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0821"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0822"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0823"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0824"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0825"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0826"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0827"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0828"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0829"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0830"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0831"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0832"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0833"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0834"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0835"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0836"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0837"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0838"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0839"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0840"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0841"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0842"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0843"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0844"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0845"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0846"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0847"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0848"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0849"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0850"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0851"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0852"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0853"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0854"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0855"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0856"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0857"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0858"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0859"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0860"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0861"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0862"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0863"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0864"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0865"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0866"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0867"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0868"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0869"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0870"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0871"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0872"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0873"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0874"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0875"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0876"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0877"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0878"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0879"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0880"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0881"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0882"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0883"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0884"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0885"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0886"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0887"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0888"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0889"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0890"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0891"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0892"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0893"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0894"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0895"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0896"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0897"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0898"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0899"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0900"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0901"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0902"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0903"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0904"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0905"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0906"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0907"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0908"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0909"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0910"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0911"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0912"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0913"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0914"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0915"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0916"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0917"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0918"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0919"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0920"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0921"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0922"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0923"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0924"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0925"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0926"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0927"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0928"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0929"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0930"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0931"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0932"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0933"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0934"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0935"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0936"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0937"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0938"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0939"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0940"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0941"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0942"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0943"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0944"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0945"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0946"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0947"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0948"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0949"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0950"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0951"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0952"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0953"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0954"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0955"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0956"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0957"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0958"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0959"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0960"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0961"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0962"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0963"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0964"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0965"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0966"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0967"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0968"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0969"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0970"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0971"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0972"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0973"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0974"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0975"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0976"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0977"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0978"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0979"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0980"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0981"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0982"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0983"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0984"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0985"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0986"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0987"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0988"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0989"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0990"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0991"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0992"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0993"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0994"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0995"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0996"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0997"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0998"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL0999"
+  },
+  {
+    "feed": "standard",
+    "policy_id": "POL1000"
+  }
+]

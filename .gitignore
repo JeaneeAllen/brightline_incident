@@ -1,0 +1,22 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS files
+.DS_Store
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.log
+~$*

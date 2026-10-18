@@ -1,0 +1,5 @@
+asset,completed_at,business_date,status
+claims_source,2026-10-15T03:00:00-05:00,2026-10-14,success
+claims_staging,2026-10-15T03:20:00-05:00,2026-10-14,success
+claims_mart,2026-10-15T03:30:00-05:00,2026-10-14,success
+claims_dashboard,2026-10-15T03:40:00-05:00,2026-10-14,success

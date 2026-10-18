@@ -1,0 +1,2 @@
+deployed_at,asset,change,compatibility,ingestion_behavior,notification
+2026-10-15T01:50:00-05:00,specialty_policy_feed,policy_id renamed to policy_key,breaking for the existing mapping,accept new field; old field becomes null,no downstream notification
